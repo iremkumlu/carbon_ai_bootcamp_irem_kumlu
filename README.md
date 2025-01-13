@@ -29,8 +29,8 @@ Bir AI ajanı (agent) tasarlandı.
 `weather_api_key` değişkenini kendi OpenWeatherMap API anahtarınızla değiştirin.
 `weather_api_key = "7000de40458363ace6929e6573bc87d8"` 
 ## Kullanım
-1- Terminalde 'streamlit run task3_script.py' komutunu çalıştırın.
-2- Hava durumu özeti ve Tavsiye almak istediğin şehri yazın.
+1. Terminalde 'streamlit run task3_script.py' komutunu çalıştırın.
+2. Hava durumu özeti ve Tavsiye almak istediğin şehri yazın.
 
 
 # Task4:
