@@ -1,0 +1,1 @@
+{'city': 'İzmir', 'temperature': 13.97, 'rain_probability': 0, 'wind_speed': 4.12}

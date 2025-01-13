@@ -1,0 +1,5 @@
+1. Yapay zeka teknolojileri 2024 yılında hangi sektörlerde kullanılacak?  
+2. Fidye yazılımlarıyla mücadele için en etkili güvenlik yaklaşımları nelerdir?  
+3. Eğitimde sanal gerçeklik (VR) teknolojileri nasıl bir katkı sağlıyor?  
+4. Zero-trust mimarisi nedir ve hangi durumlarda kullanılır?  
+5. Bulut bilişim küçük işletmelere nasıl faydalar sağlar?  

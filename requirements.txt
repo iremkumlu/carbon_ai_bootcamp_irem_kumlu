@@ -1,0 +1,10 @@
+torch
+transformers
+sentencepiece
+fastapi
+pydantic
+haystack
+faiss-cpu     
+streamlit
+requests      
+gunicorn

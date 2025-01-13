@@ -1,0 +1,5 @@
+Şehir: İzmir
+Sıcaklık: 13.97°C
+Hava Durumu: parçalı az bulutlu
+Rüzgar: 4.12 km/s
+Tavsiyeler: İzmir için hava soğuk, kalın giysiler ve ceket önerilir.

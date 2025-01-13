@@ -1,0 +1,8 @@
+fastapi
+pydantic
+haystack
+transformers
+faiss-cpu     
+streamlit
+requests      
+gunicorn

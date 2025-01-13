@@ -1,0 +1,10 @@
+version: "3.9"  # Docker Compose sürümü
+services:
+  web:
+    build: . # Dockerfile'ın bulunduğu dizin
+    ports:
+      - "8000:8000" # Host portu: Konteyner portu
+    volumes:
+      - ./Data:/app/Data # Veri dosyaları için volume mount (isteğe bağlı)
+    depends_on: # Eğer başka servisleriniz varsa (örneğin veritabanı) buraya ekleyebilirsiniz.
+      []
