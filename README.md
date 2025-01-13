@@ -4,8 +4,7 @@ carbon ai bootcamp soru ve cevapları
 
 # Task1 :
 ## Metin Özetleme
-Bir dil modeli (Hugging Face Transformers gibi) kullanarak aşağıdaki işlemleri gerçekleştiren bir Python kodu yazıldı.
-Hugging Face'ten alınan çnceden eğitilmiş Pegasus modelini (google/pegasus-xsum) kullanıldı.
+Metin özetleme işlemi için Hugging Face'ten alınan önceden eğitilmiş Pegasus modelini (google/pegasus-xsum) kullanıldı.
 
 
 # Task2 :
