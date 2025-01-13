@@ -34,7 +34,6 @@ Bir AI ajanı (agent) tasarlandı.
 
 # Task4:
 ## İstanbul Gezi Asistanı (RAG Destekli)
-Yeni bir RAG tabanlı uygulama veya LLM projesi tasarlayın açıklandı.
 Bu proje, kullanıcılara kişiselleştirilmiş ve güncel İstanbul gezi tavsiyeleri sunan akıllı bir sistemdir. Retrieval Augmented Generation (RAG) yaklaşımını kullanarak, çeşitli güvenilir kaynaklardan elde edilen bilgileri bir araya getirir ve kullanıcının ilgi alanlarına, zaman kısıtlamalarına ve bütçesine göre özelleştirilmiş öneriler sunmaktadır.
 ## Teknolojiler
 
