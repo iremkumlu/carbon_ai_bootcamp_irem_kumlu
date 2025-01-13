@@ -3,17 +3,13 @@
 carbon ai bootcamp soru ve cevapları
 
 # Task1 :
+## Metin Özetleme
 Bir dil modeli (Hugging Face Transformers gibi) kullanarak aşağıdaki işlemleri gerçekleştiren bir Python kodu yazıldı.
 Hugging Face'ten alınan çnceden eğitilmiş Pegasus modelini (google/pegasus-xsum) kullanıldı.
-# Kullanım:
-1- python task1_script.ipynb (Google Colab içinde)
-2- Özetlemek istediğiniz metin dosyasını yüklemek için "Dosyaları Gözat" seçeneğine tıklayın.
-3- Yüklenen metni Pegasus modeli aracılığıyla işleyecek ve özlü bir özet oluşturacaktır.
-4- Özet görüntülenecek ve "output_task1.txt" olarak kaydedilecektir. Ayrıca özet dosyasını doğrudan Colab'dan indirebilirsiniz.
 
 # Task2 :
 Haystack ve bir açık kaynaklı model kullanarak bir RAG sistemi tasarlandı.
-# Türkçe Soru-Cevaplama Uygulaması (FastAPI ve Haystack ile)
+## Türkçe Soru-Cevaplama Uygulaması (FastAPI ve Haystack ile)
 - Bu proje, FastAPI ve Haystack kütüphanelerini kullanarak Türkçe metinler üzerinde soru-cevaplama yapabilen bir uygulama oluşturur. Önceden eğitilmiş "savasy/bert-base-turkish-squad" modelini kullanarak, verilen metin belgelerinden sorulara en uygun cevapları çıkarır. Ayrıca, Streamlit ile basit bir web arayüzü sunar.
 - `Data` klasörü oluşturun ve içine `doc1.txt`, `doc2.txt`, ve `doc3.txt` adlı metin dosyalarınızı ekleyin. Bu dosyalar, uygulamanın cevapları arayacağı belgeleri içerecektir.
 ## Kullanım
@@ -25,13 +21,13 @@ Haystack ve bir açık kaynaklı model kullanarak bir RAG sistemi tasarlandı.
 6.  "output_task2 dosyasını indir" butonu ile soru ve cevabı içeren bir metin dosyası indirebilirsiniz.
 
 # Task3 :
-# Hava Durumu Özetleme ve Tavsiye Uygulaması 
+## Hava Durumu Özetleme ve Tavsiye Uygulaması 
 Bir AI ajanı (agent) tasarlandı.
 `weather_api_key` değişkenini kendi OpenWeatherMap API anahtarınızla değiştirin.
 `weather_api_key = "7000de40458363ace6929e6573bc87d8"` 
 
 # Task4:
-# İstanbul Gezi Asistanı (RAG Destekli)
+## İstanbul Gezi Asistanı (RAG Destekli)
 Yeni bir RAG tabanlı uygulama veya LLM projesi tasarlayın açıklandı.
 Bu proje, kullanıcılara kişiselleştirilmiş ve güncel İstanbul gezi tavsiyeleri sunan akıllı bir sistemdir. Retrieval Augmented Generation (RAG) yaklaşımını kullanarak, çeşitli güvenilir kaynaklardan elde edilen bilgileri bir araya getirir ve kullanıcının ilgi alanlarına, zaman kısıtlamalarına ve bütçesine göre özelleştirilmiş öneriler sunmaktadır.
 ## Teknolojiler
